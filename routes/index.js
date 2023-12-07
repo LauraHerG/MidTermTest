@@ -10,4 +10,6 @@ router.get('/employees', function(req, res, next) {
   res.render('employees', { title: 'Employees' });
 });
 */
-module.exports = router;
+
+
+TextDecoderStream();
